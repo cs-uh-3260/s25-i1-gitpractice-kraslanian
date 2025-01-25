@@ -6,4 +6,7 @@ This article brings an intriguing perspective on the evolving role of developers
 
 AI can handle repetitive tasks and generate code, but it still falls short in grasping the subtleties of **human relationships** and **domain expertise**, which makes these areas crucial for developers to focus on. In this new landscape, those who can adapt, use AI as a tool to amplify their capabilities, and stay engaged in the bigger picture of problem-solving will thrive. 
 
-The future of software development, it seems, isn't just about coding anymore; it's about crafting **meaningful, real-world solutions** through collaboration with AI.
+The future of software development, it seems, isn't just about coding anymore --  it's about crafting **meaningful, real-world solutions** through collaboration with AI.
+
+## Proof Reading
+- Article checked for typos
