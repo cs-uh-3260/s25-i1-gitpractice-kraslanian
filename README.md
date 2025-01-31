@@ -5,4 +5,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 ## Kristina Aslanian, ks6304
 
 ## Links to my merged PR/s:
-https://github.com/cs-uh-3260/s25-i1-gitpractice-kraslanian/pull/2
+https://github.com/cs-uh-3260/s25-i1-gitpractice-PhucNguyen-rsc/pull/1
