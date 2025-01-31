@@ -10,3 +10,8 @@ The future of software development, it seems, isn't just about coding anymore --
 
 ## Proof Reading
 - Article checked for typos
+
+
+## Sarah's comments
+
+Interesting perspective. To me, the role of software maintenance (including more rigurous testing and debugging skills) will likely also increase. Producing code alone is not going to be the issue, but making sure this code is correct, fits the requirements, and properly integrated in the system is important. Sometimes, LLMs hallucinate or you reach the limit of their knowledge and they give you wrong code, being able to figure that out and spot the problem is important!
